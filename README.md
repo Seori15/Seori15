@@ -5,6 +5,9 @@
 
 # Good to see you
 
+![Seori's GitHub stats](https://github-readme-stats.vercel.app/api?Seori15=anuraghazra&show_icons=true&theme=radical)
+
+
 <!--
 **Seori15/Seori15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
