@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on 역삼역
+
+# Good to see you
+
 <!--
 **Seori15/Seori15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
