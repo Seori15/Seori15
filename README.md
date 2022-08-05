@@ -5,7 +5,7 @@
 
 # Good to see you
 
-![Seori15's GitHub stats](https://github-readme-stats.vercel.app/api?Seori15=anuraghazra&show_icons=true&theme=radical)
+![Seori15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seori15&show_icons=true&theme=radical)
 
 
 <!--
