@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on 역삼역
+만년 공사중..☆
 
 # Good to see you
 
